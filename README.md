@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julien Boulevart
 ========================================================================================================================================
 
-Frontend Developper
+Frontend Developper | Coder Enthusiast
 -------------------
 
 I am a frontend developper for over a decade now, but I am still willing to learn new tool, frameworks or tips that could help improve my development skills. My years of development has lead me to try several technical stacks, but lately I love working with React (Native), Graphql, Typescript and NodeJS for the backend.
